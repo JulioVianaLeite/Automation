@@ -11,6 +11,7 @@ import actions.CreateAccontAction;
 import utils.Constantes;
 import utils.DriverContext;
 
+//Classe de testes
 class TextAutomationPractice {
 
 	WebDriver driver;
